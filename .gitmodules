@@ -1,6 +1,6 @@
 [submodule "SwiftPods/SwiftJSONMapper"]
 	path = SwiftPods/SwiftJSONMapper
-	url = git@github.com:tomekc/SwiftJSONMapper.git
+	url = https://github.com/tomekc/SwiftJSONMapper.git
 [submodule "SwiftPods/Swactor"]
 	path = SwiftPods/Swactor
-	url = git@github.com:tomekc/SwiftActors.git
+	url = https://github.com/tomekc/SwiftActors.git
